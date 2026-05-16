@@ -1,10 +1,5 @@
 # Claude Certified Architect — Foundations
 
-This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
-
-![alt text](image.png)
-
-
 ## Free Anthropic Courses
 
 13 free courses & certificates from Anthropic Academy:
